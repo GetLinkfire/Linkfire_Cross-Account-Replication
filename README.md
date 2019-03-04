@@ -150,4 +150,7 @@ aws s3api get-bucket-replication \
 ```
 
 ## Questions
+
+If you have any questions, please reach out to security@linkfire.com.
+
 Please provide Linkfire with the account number of the AWS account that this bucket is hosted in, so we can grant the permission to the account to replicate files to the Linkfire bucket. We will communicate this through a secure channel during implementation. 
