@@ -1,0 +1,16 @@
+{
+  "Role": "aws:iam::<SOURCEOWNERID>:role/Linkfire_Replication_Role",
+  "Rules": [
+    {
+      "Status": "Enabled",
+      "Priority": "1",
+      "DeleteMarkerReplication": { "Status": "Disabled" },
+      "Filter" : {},
+      "Destination": {
+        "Bucket": "arn:aws:s3:::<DESTINATIONBUCKET>",
+        "Account":"<DESTINATIONOWNERID>",
+        "AccessControlTranslation":{"Owner":"Destination"}
+      },
+    }
+  ]
+}
