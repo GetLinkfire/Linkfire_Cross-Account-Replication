@@ -12,9 +12,9 @@
 
 ## 📋 Required Information
 
-### Source Account (Client)
+### Source (Client)
 
-### Destination Account (Linkfire)
+### Destination (Linkfire)
 
 
 
