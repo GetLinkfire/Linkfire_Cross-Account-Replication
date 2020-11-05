@@ -36,7 +36,7 @@ Linkfire will do the same on its buckets.
 
 In the AWS Management Console you can enable Versioning by going to the Properties Tab of your bucket and Clicking Enable.
 
-![Screen Shot 2020-10-22 at 12.00.40 PM](/Users/adyrcz/Desktop/Screen Shot 2020-10-22 at 12.00.40 PM.png)
+![Screen Shot 2020-10-22 at 12.00.40 PM](versioning.png)
 
 
 
@@ -167,21 +167,21 @@ aws s3api put-bucket-replication \
 
 Through the AWS Management Console, If you click on the Management Tab while in your S3 bucket, you can create a new Replication Rule.
 
-![Screen Shot 2020-10-22 at 12.29.34 PM](/Users/adyrcz/Desktop/Screen Shot 2020-10-22 at 12.29.34 PM.png)
+![Screen Shot 2020-10-22 at 12.29.34 PM](add_rule.png)
 
 Select Entire Bucket and click Next
 
-![Screen Shot 2020-10-22 at 1.07.23 PM](/Users/adyrcz/Desktop/Screen Shot 2020-10-22 at 1.07.23 PM.png)
+![Screen Shot 2020-10-22 at 1.07.23 PM](rule.png)
 
 On the following screen you will assign the destination settings.
 
 Choose the `LINKFIRE AWS ACCOUNT ID` and the `LINKFIRE BUCKET NAME` for the BUCKET IN ANOTHER ACCOUNT option.
 
-![Screen Shot 2020-10-22 at 1.09.27 PM](/Users/adyrcz/Desktop/Screen Shot 2020-10-22 at 1.09.27 PM.png)
+![account_id](account_id.png)
 
 Click Save, and then under the Object Ownership option, click `Change object ownership to destination bucket owner` checkbox.
 
-![Screen Shot 2020-10-22 at 1.10.07 PM](/Users/adyrcz/Desktop/Screen Shot 2020-10-22 at 1.10.07 PM.png)
+![Screen Shot 2020-10-22 at 1.10.07 PM](ownership.png)
 
  Click Next, Provide a Choose your Role Name, give the rule a name, copy the policy and click Next, 
 
