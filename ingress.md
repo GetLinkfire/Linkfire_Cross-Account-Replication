@@ -108,7 +108,8 @@ This is the policy you will bind to the role:
             "s3:ReplicateObject",
             "s3:ReplicateDelete",
             "s3:ReplicateTags",
-            "s3:GetObjectVersionTagging"
+            "s3:GetObjectVersionTagging",
+            "s3:ObjectOwnerOverrideToBucketOwner"
 
          ],
          "Resource":"arn:aws:s3:::<LINKFIRE BUCKET NAME>/*"
