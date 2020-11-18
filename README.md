@@ -6,7 +6,7 @@ Are you looking to?
 
 or
 
-[Recieve Data from Linkfire?](egress.md)
+[Receive Data from Linkfire?](egress.md)
 
 
 
