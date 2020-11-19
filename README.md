@@ -4,11 +4,11 @@ Hello friend,
 
 Are you looking to?
 
-## [Send Data to Linkfire?](ingress.md)
+## 📤 [Send Data to Linkfire?](ingress.md)
 
 or
 
-## [Receive Data from Linkfire?](egress.md)
+## 📥 [Receive Data from Linkfire?](egress.md)
 
 
 
