@@ -1,3 +1,5 @@
+![Choose your own adventure](chooseyourown.jpg?raw=true "Choose your own adventure")
+
 # Linkfire
 
 Hello friend,
