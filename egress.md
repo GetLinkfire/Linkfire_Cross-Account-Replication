@@ -46,7 +46,7 @@ Linkfire will do the same on its buckets.
 
 In the AWS Management Console you can enable Versioning by going to the Properties Tab of your bucket and Clicking Enable.
 
-![Screen Shot 2020-10-22 at 12.00.40 PM](Screen Shot 2020-10-22 at 12.00.40 PM.png?raw=true)
+![Screen Shot 2020-10-22 at 12.00.40 PM](versioning.png?raw=true)
 
 ## Step 2
 
