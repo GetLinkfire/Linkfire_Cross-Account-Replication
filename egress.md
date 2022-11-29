@@ -6,14 +6,7 @@
 
 #### 👩‍💼Client Setup
 
-*ℹ️ This document should be sent to the client. It contians all of the steps required for the client to configure their S3 bucket to accept cross region replicated data from a Linkfire S3 bucket.*
-
-
-
-
-
-
-
+*ℹ️ This document should be sent to the client. It contains all of the steps required for the client to configure their S3 bucket to accept cross region replicated data from a Linkfire S3 bucket.*
 
 
 
@@ -23,9 +16,10 @@
 ## 📋 Required Information
 
 ### Source (Linkfire)
+Account ID: 880172922216
 
-### Destination (Client)	
-
+### Destination (Client)
+Please provide your account rep with your `AWS Account ID` and your bucket's name ie `s3://customer-bucket-name`.
 
 
 ## Step 1
