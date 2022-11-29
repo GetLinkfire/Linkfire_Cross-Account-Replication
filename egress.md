@@ -16,7 +16,7 @@
 ## 📋 Required Information
 
 ### Source (Linkfire)
-Account ID: 880172922216
+Account ID: Your customer rep will provide this detail.
 
 ### Destination (Client)
 Please provide your account rep with your `AWS Account ID` and your bucket's name ie `s3://customer-bucket-name`.
