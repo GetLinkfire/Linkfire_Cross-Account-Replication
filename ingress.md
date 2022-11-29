@@ -6,7 +6,7 @@
 
 #### 👩‍💼Client Setup
 
-*ℹ️ This document should be sent to the client. It contians all of the steps required for the client to enable replication from their S3 bucket to our Linkfire S3 bucket.*
+*ℹ️ This document should be sent to the client. It contains all of the steps required for the client to enable replication from their S3 bucket to our Linkfire S3 bucket.*
 
 
 
